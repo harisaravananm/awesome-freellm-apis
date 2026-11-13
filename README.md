@@ -1,15 +1,15 @@
 <p align="center">
   <h1 align="center">awesome-free-llm-apis</h1>
   <!-- AUTO_STATS -->
-  <p align="center"><strong>442+ free LLM APIs from 31 providers</strong> — find, compare & configure free models in seconds.</p>
+  <p align="center"><strong>442+ free LLM APIs from 31 providers</strong> â€” find, compare & configure free models in seconds.</p>
 <!-- END_AUTO_STATS -->
 </p>
 
 <p align="center">
-  <a href="https://freellm.net" target="_blank" rel="noopener"><strong>🌐 Live at freellm.net</strong></a> —
-  <a href="https://freellm.net/models/" target="_blank" rel="noopener">Browse models</a> ·
-  <a href="https://freellm.net/playground/" target="_blank" rel="noopener">Playground</a> ·
-  <a href="https://freellm.net/config/" target="_blank" rel="noopener">Config generator</a> ·
+  <a href="https://freellm.net" target="_blank" rel="noopener"><strong>ðŸŒ Live at freellm.net</strong></a> â€”
+  <a href="https://freellm.net/models/" target="_blank" rel="noopener">Browse models</a> Â·
+  <a href="https://freellm.net/playground/" target="_blank" rel="noopener">Playground</a> Â·
+  <a href="https://freellm.net/config/" target="_blank" rel="noopener">Config generator</a> Â·
   <a href="https://freellm.net/free-llm-api-keys/" target="_blank" rel="noopener">API keys</a>
 </p>
 
@@ -18,11 +18,11 @@
 </p>
 
 <!-- AUTO_UPDATE_BADGE -->
-  <p align="center"><strong>🔄 Data refreshed daily from <a href="https://freellm.net" target="_blank" rel="noopener">freellm.net</a></strong> — Last updated: 2026-08-17</p>
+  <p align="center"><strong>ðŸ”„ Data refreshed daily from <a href="https://freellm.net" target="_blank" rel="noopener">freellm.net</a></strong> â€” Last updated: 2026-08-17</p>
 <!-- END_AUTO_UPDATE_BADGE -->
 
 <p align="center">
-  🌐 <a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a>
+  ðŸŒ <a href="README.md">English</a> Â· <a href="README.zh-CN.md">ç®€ä½“ä¸­æ–‡</a> Â· <a href="README.zh-TW.md">ç¹é«”ä¸­æ–‡</a> Â· <a href="README.ja.md">æ—¥æœ¬èªž</a> Â· <a href="README.ko.md">í•œêµ­ì–´</a>
 </p>
 
 ---
@@ -31,32 +31,32 @@
 
 Finding a free LLM API shouldn't mean hunting through a dozen GitHub READMEs, signing up for five different platforms, or guessing which models still have a free tier.
 
-This repo is a **structured, machine-readable directory** of every free LLM API — rate limits, context windows, one-click config snippets, and direct API key links. Updated daily.
+This repo is a **structured, machine-readable directory** of every free LLM API â€” rate limits, context windows, one-click config snippets, and direct API key links. Updated daily.
 
 **Why this repo + <a href="https://freellm.net" target="_blank" rel="noopener">freellm.net</a>:**
 
-- ✅ **Always up-to-date** — data refreshed daily via automated monitoring, not a 2-year-old static list
-- ✅ **Credit card transparency** — clearly shows which providers require a card, phone verification, or nothing at all
-- ✅ **One-click configs** — ready-to-copy snippets for Claude Code, Cursor, Codex, Aider, and 10+ more tools
-- ✅ **Side-by-side comparison** — compare context windows, rate limits, and modalities across providers instantly
+- âœ… **Always up-to-date** â€” data refreshed daily via automated monitoring, not a 2-year-old static list
+- âœ… **Credit card transparency** â€” clearly shows which providers require a card, phone verification, or nothing at all
+- âœ… **One-click configs** â€” ready-to-copy snippets for Claude Code, Cursor, Codex, Aider, and 10+ more tools
+- âœ… **Side-by-side comparison** â€” compare context windows, rate limits, and modalities across providers instantly
 
 ---
 
-## How to Use — 3 Steps
+## How to Use â€” 3 Steps
 
-1. **Pick a provider** — see [Provider Directory](#provider-directory) below. Start with **Groq** (no credit card, 30 RPM free).
-2. **Get your API key** — click any [Get Key →](#quick-reference--base-urls--api-keys) link below, sign up (most need just an email), and copy your key. Takes < 1 minute.
-3. **Plug it in** — copy the base URL + model ID, paste into the [Quick Start](#quick-start--use-any-free-api-in-30-seconds) examples below.
+1. **Pick a provider** â€” see [Provider Directory](#provider-directory) below. Start with **Groq** (no credit card, 30 RPM free).
+2. **Get your API key** â€” click any [Get Key â†’](#quick-reference--base-urls--api-keys) link below, sign up (most need just an email), and copy your key. Takes < 1 minute.
+3. **Plug it in** â€” copy the base URL + model ID, paste into the [Quick Start](#quick-start--use-any-free-api-in-30-seconds) examples below.
 
-Configuring a specific tool? <a href="https://freellm.net/config/#claude-code" target="_blank" rel="noopener">Claude Code</a> · <a href="https://freellm.net/config/#cursor" target="_blank" rel="noopener">Cursor</a> · <a href="https://freellm.net/config/#codex" target="_blank" rel="noopener">Codex</a> · <a href="https://freellm.net/config/#openhuman" target="_blank" rel="noopener">OpenHuman</a> · <a href="https://freellm.net/config/#opencode" target="_blank" rel="noopener">OpenCode</a> · <a href="https://freellm.net/config/#openclaw" target="_blank" rel="noopener">OpenClaw</a> — one-click configs at <a href="https://freellm.net/config/" target="_blank" rel="noopener">freellm.net/config/</a>.
+Configuring a specific tool? <a href="https://freellm.net/config/#claude-code" target="_blank" rel="noopener">Claude Code</a> Â· <a href="https://freellm.net/config/#cursor" target="_blank" rel="noopener">Cursor</a> Â· <a href="https://freellm.net/config/#codex" target="_blank" rel="noopener">Codex</a> Â· <a href="https://freellm.net/config/#openhuman" target="_blank" rel="noopener">OpenHuman</a> Â· <a href="https://freellm.net/config/#opencode" target="_blank" rel="noopener">OpenCode</a> Â· <a href="https://freellm.net/config/#openclaw" target="_blank" rel="noopener">OpenClaw</a> â€” one-click configs at <a href="https://freellm.net/config/" target="_blank" rel="noopener">freellm.net/config/</a>.
 
 
 
-## Quick Start — Use Any Free API in 30 Seconds
+## Quick Start â€” Use Any Free API in 30 Seconds
 
 **Never used an API before?** Here's the simplest path: go to <a href="https://console.groq.com/keys" target="_blank" rel="noopener">console.groq.com/keys</a>, sign up with just an email (no credit card), copy your free key, and paste it into any example below. You'll be running in under a minute.
 
-All providers below expose an **OpenAI-compatible endpoint**. Any tool that accepts `baseURL` + `apiKey` works — just swap the base URL and key.
+All providers below expose an **OpenAI-compatible endpoint**. Any tool that accepts `baseURL` + `apiKey` works â€” just swap the base URL and key.
 
 ### Python (OpenAI SDK)
 
@@ -73,7 +73,12 @@ response = client.chat.completions.create(
     messages=[{"role": "user", "content": "Hello!"}],
 )
 print(response.choices[0].message.content)
-# Groq free tier: 30 RPM, 14,400 RPD — generous for personal use
+# Groq free tier: 30 RPM, 14,400 RPD â€” generous for personal use
+
+<!-- tech-version-badges -->
+![LLM APIs](https://img.shields.io/badge/LLM-APIs-6A1B9A?style=for-the-badge) ![REST JSON](https://img.shields.io/badge/REST-JSON-009688?style=for-the-badge) ![Free Providers](https://img.shields.io/badge/Free-Providers-2EA44F?style=for-the-badge)
+<!-- /tech-version-badges -->
+
 ```
 
 ### Codex CLI
@@ -87,7 +92,7 @@ codex --model "llama-3.3-70b-versatile"
 ### Cursor
 
 ```
-Settings → Models → Add Model
+Settings â†’ Models â†’ Add Model
   Model name: llama-3.3-70b-versatile
   Base URL: https://api.groq.com/openai/v1
   API key: your-groq-key                       # get at console.groq.com/keys
@@ -96,24 +101,26 @@ Settings → Models → Add Model
 ### Claude Code
 
 ```bash
-# Claude Code needs an Anthropic-compatible API — use OpenRouter
+# Claude Code needs an Anthropic-compatible API â€” use OpenRouter
+
 export ANTHROPIC_BASE_URL="https://openrouter.ai/api"
 export ANTHROPIC_AUTH_TOKEN="sk-or-v1-your-key"  # openrouter.ai/keys
 export ANTHROPIC_API_KEY=""                       # must be empty
 # Note: OpenRouter Anthropic models need $10 top-up (one-time)
+
 ```
 
 ### Using Other Tools?
 
-Most AI dev tools accept custom API endpoints — just point them at any provider above. Grab your free key, then:
+Most AI dev tools accept custom API endpoints â€” just point them at any provider above. Grab your free key, then:
 
-- **Claude Code** — set `ANTHROPIC_BASE_URL` + `ANTHROPIC_AUTH_TOKEN`. <a href="https://freellm.net/config/#claude-code" target="_blank" rel="noopener">Step-by-step →</a>
-- **Cursor** — Settings → Models → Add Model. <a href="https://freellm.net/config/#cursor" target="_blank" rel="noopener">Step-by-step →</a>
-- **Codex CLI** — set `OPENAI_BASE_URL` + `OPENAI_API_KEY`. <a href="https://freellm.net/config/#codex" target="_blank" rel="noopener">Step-by-step →</a>
-- **OpenHuman** — edit `config.toml`. <a href="https://freellm.net/config/#openhuman" target="_blank" rel="noopener">Step-by-step →</a>
-- **Aider** — edit `.aider.conf.yml`. <a href="https://freellm.net/config/#aider" target="_blank" rel="noopener">Step-by-step →</a>
-- **Cline** (VS Code) — API provider settings. <a href="https://freellm.net/config/#cline" target="_blank" rel="noopener">Step-by-step →</a>
-- **Open WebUI** — Settings → Connections. <a href="https://freellm.net/config/#open-webui" target="_blank" rel="noopener">Step-by-step →</a>
+- **Claude Code** â€” set `ANTHROPIC_BASE_URL` + `ANTHROPIC_AUTH_TOKEN`. <a href="https://freellm.net/config/#claude-code" target="_blank" rel="noopener">Step-by-step â†’</a>
+- **Cursor** â€” Settings â†’ Models â†’ Add Model. <a href="https://freellm.net/config/#cursor" target="_blank" rel="noopener">Step-by-step â†’</a>
+- **Codex CLI** â€” set `OPENAI_BASE_URL` + `OPENAI_API_KEY`. <a href="https://freellm.net/config/#codex" target="_blank" rel="noopener">Step-by-step â†’</a>
+- **OpenHuman** â€” edit `config.toml`. <a href="https://freellm.net/config/#openhuman" target="_blank" rel="noopener">Step-by-step â†’</a>
+- **Aider** â€” edit `.aider.conf.yml`. <a href="https://freellm.net/config/#aider" target="_blank" rel="noopener">Step-by-step â†’</a>
+- **Cline** (VS Code) â€” API provider settings. <a href="https://freellm.net/config/#cline" target="_blank" rel="noopener">Step-by-step â†’</a>
+- **Open WebUI** â€” Settings â†’ Connections. <a href="https://freellm.net/config/#open-webui" target="_blank" rel="noopener">Step-by-step â†’</a>
 
 More ready-to-copy configs at <a href="https://freellm.net/config/" target="_blank" rel="noopener"><strong>freellm.net/config/</strong></a>.
 
@@ -124,91 +131,91 @@ More ready-to-copy configs at <a href="https://freellm.net/config/" target="_bla
 
 ## Provider Directory
 
-### ⚡ Permanent Free Tiers
+### âš¡ Permanent Free Tiers
 
-These providers offer a **permanently free tier** — no credit card required for most.
+These providers offer a **permanently free tier** â€” no credit card required for most.
 
 <!-- BEGIN_PERMANENT_FREE -->
 | Provider | Free Models | Credit Card? | Max Context | Modalities | Get API Key |
 |---|---|---|---|---|---|
-| NVIDIA NIM | 125 | Phone verification | 1M | audio, embedding, image, reasoning, rerank, text, video, vision | <a href="https://build.nvidia.com/settings/api-keys" target="_blank" rel="noopener">→</a> |
-| ModelScope | 55 | Registration | 1M | audio, image, reasoning, text, video, vision | <a href="https://modelscope.cn/my/myaccesstoken" target="_blank" rel="noopener">→</a> |
-| Cloudflare Workers AI | 39 | No | 10M | code, image, reasoning, text, video | <a href="https://dash.cloudflare.com/profile/api-tokens" target="_blank" rel="noopener">→</a> |
-| Google Gemini | 17 | No | 1M | audio, image, pdf, reasoning, text, video, vision | <a href="https://aistudio.google.com/app/apikey" target="_blank" rel="noopener">→</a> |
-| GitHub Models | 16 | No | 1M | image, pdf, reasoning, text | <a href="https://github.com/marketplace/models" target="_blank" rel="noopener">→</a> |
-| LLM7.io | 16 | No | 1M | audio, code, image, pdf, reasoning, text, video, vision | <a href="https://token.llm7.io" target="_blank" rel="noopener">→</a> |
-| OVHcloud AI Endpoints | 14 | Registration | 262K | audio, code, image, reasoning, text, video | <a href="https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/" target="_blank" rel="noopener">→</a> |
-| Ollama Cloud | 13 | Registration | 1M | code, image, reasoning, text, video, vision | <a href="https://ollama.com/settings/keys" target="_blank" rel="noopener">→</a> |
-| Groq | 12 | No | 262K | image, reasoning, text | <a href="https://console.groq.com/keys" target="_blank" rel="noopener">→</a> |
-| Mistral AI | 12 | No | 256K | code, image, text | <a href="https://console.mistral.ai/api-keys" target="_blank" rel="noopener">→</a> |
-| Cohere | 12 | No | 436K | image, text | <a href="https://dashboard.cohere.com/api-keys" target="_blank" rel="noopener">→</a> |
-| Kilo Code | 12 | No | 1M | audio, code, image, reasoning, text, video | <a href="https://kilo.ai" target="_blank" rel="noopener">→</a> |
-| OpenCode Zen | 11 | Registration | 1M | audio, reasoning, vision | <a href="https://opencode.ai/auth" target="_blank" rel="noopener">→</a> |
-| Cerebras | 8 | No | 131K | image, reasoning, text | <a href="https://cloud.cerebras.ai/" target="_blank" rel="noopener">→</a> |
-| Aion Labs | 7 | Registration | 131K | text | <a href="https://www.aionlabs.ai" target="_blank" rel="noopener">→</a> |
-| Hugging Face | 7 | No | 131K | code, text | <a href="https://huggingface.co/settings/tokens" target="_blank" rel="noopener">→</a> |
-| Agnes AI | 5 | Registration | 256K | image, text, video, vision | <a href="https://platform.agnes-ai.com/settings/apiKeys" target="_blank" rel="noopener">→</a> |
-| Alibaba Cloud Model Studio | 5 | Registration | 1M | code, image, text | <a href="https://bailian.console.alibabacloud.com/?apiKey=1" target="_blank" rel="noopener">→</a> |
-| Z AI (Zhipu AI) | 4 | No | 200K | image, reasoning, text, video | <a href="https://open.bigmodel.cn/usercenter/apikeys" target="_blank" rel="noopener">→</a> |
-| SambaNova | 4 | Registration | 128K | image, reasoning, text | <a href="https://cloud.sambanova.ai/apis" target="_blank" rel="noopener">→</a> |
-| SiliconFlow | 3 | Registration | 131K | text | <a href="https://cloud.siliconflow.cn/account/ak" target="_blank" rel="noopener">→</a> |
-| xAI | 3 | Registration | 2M | text | <a href="https://console.x.ai" target="_blank" rel="noopener">→</a> |
-| Cline | 3 | Registration | 0 | text | <a href="" target="_blank" rel="noopener">→</a> |
-| Chutes.ai | 2 | Registration | 131K | reasoning, text | <a href="https://chutes.ai/" target="_blank" rel="noopener">→</a> |
-| Glhf.chat | 2 | Registration | 131K | text | <a href="https://glhf.chat/" target="_blank" rel="noopener">→</a> |
-| Grok (xAI) | 2 | Registration | 131K | text | <a href="https://console.x.ai/" target="_blank" rel="noopener">→</a> |
-| AI21 Labs | 2 | Registration | 256K | text | <a href="https://studio.ai21.com/account/api-key" target="_blank" rel="noopener">→</a> |
-| DeepSeek | 2 | Registration | 128K | text | <a href="https://platform.deepseek.com/api_keys" target="_blank" rel="noopener">→</a> |
-| Nscale | 2 | Registration | 128K | text | <a href="https://console.nscale.com/" target="_blank" rel="noopener">→</a> |
-| Nebius | 1 | Registration | 128K | text | <a href="https://studio.nebius.com/settings/api-keys" target="_blank" rel="noopener">→</a> |
+| NVIDIA NIM | 125 | Phone verification | 1M | audio, embedding, image, reasoning, rerank, text, video, vision | <a href="https://build.nvidia.com/settings/api-keys" target="_blank" rel="noopener">â†’</a> |
+| ModelScope | 55 | Registration | 1M | audio, image, reasoning, text, video, vision | <a href="https://modelscope.cn/my/myaccesstoken" target="_blank" rel="noopener">â†’</a> |
+| Cloudflare Workers AI | 39 | No | 10M | code, image, reasoning, text, video | <a href="https://dash.cloudflare.com/profile/api-tokens" target="_blank" rel="noopener">â†’</a> |
+| Google Gemini | 17 | No | 1M | audio, image, pdf, reasoning, text, video, vision | <a href="https://aistudio.google.com/app/apikey" target="_blank" rel="noopener">â†’</a> |
+| GitHub Models | 16 | No | 1M | image, pdf, reasoning, text | <a href="https://github.com/marketplace/models" target="_blank" rel="noopener">â†’</a> |
+| LLM7.io | 16 | No | 1M | audio, code, image, pdf, reasoning, text, video, vision | <a href="https://token.llm7.io" target="_blank" rel="noopener">â†’</a> |
+| OVHcloud AI Endpoints | 14 | Registration | 262K | audio, code, image, reasoning, text, video | <a href="https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/" target="_blank" rel="noopener">â†’</a> |
+| Ollama Cloud | 13 | Registration | 1M | code, image, reasoning, text, video, vision | <a href="https://ollama.com/settings/keys" target="_blank" rel="noopener">â†’</a> |
+| Groq | 12 | No | 262K | image, reasoning, text | <a href="https://console.groq.com/keys" target="_blank" rel="noopener">â†’</a> |
+| Mistral AI | 12 | No | 256K | code, image, text | <a href="https://console.mistral.ai/api-keys" target="_blank" rel="noopener">â†’</a> |
+| Cohere | 12 | No | 436K | image, text | <a href="https://dashboard.cohere.com/api-keys" target="_blank" rel="noopener">â†’</a> |
+| Kilo Code | 12 | No | 1M | audio, code, image, reasoning, text, video | <a href="https://kilo.ai" target="_blank" rel="noopener">â†’</a> |
+| OpenCode Zen | 11 | Registration | 1M | audio, reasoning, vision | <a href="https://opencode.ai/auth" target="_blank" rel="noopener">â†’</a> |
+| Cerebras | 8 | No | 131K | image, reasoning, text | <a href="https://cloud.cerebras.ai/" target="_blank" rel="noopener">â†’</a> |
+| Aion Labs | 7 | Registration | 131K | text | <a href="https://www.aionlabs.ai" target="_blank" rel="noopener">â†’</a> |
+| Hugging Face | 7 | No | 131K | code, text | <a href="https://huggingface.co/settings/tokens" target="_blank" rel="noopener">â†’</a> |
+| Agnes AI | 5 | Registration | 256K | image, text, video, vision | <a href="https://platform.agnes-ai.com/settings/apiKeys" target="_blank" rel="noopener">â†’</a> |
+| Alibaba Cloud Model Studio | 5 | Registration | 1M | code, image, text | <a href="https://bailian.console.alibabacloud.com/?apiKey=1" target="_blank" rel="noopener">â†’</a> |
+| Z AI (Zhipu AI) | 4 | No | 200K | image, reasoning, text, video | <a href="https://open.bigmodel.cn/usercenter/apikeys" target="_blank" rel="noopener">â†’</a> |
+| SambaNova | 4 | Registration | 128K | image, reasoning, text | <a href="https://cloud.sambanova.ai/apis" target="_blank" rel="noopener">â†’</a> |
+| SiliconFlow | 3 | Registration | 131K | text | <a href="https://cloud.siliconflow.cn/account/ak" target="_blank" rel="noopener">â†’</a> |
+| xAI | 3 | Registration | 2M | text | <a href="https://console.x.ai" target="_blank" rel="noopener">â†’</a> |
+| Cline | 3 | Registration | 0 | text | <a href="" target="_blank" rel="noopener">â†’</a> |
+| Chutes.ai | 2 | Registration | 131K | reasoning, text | <a href="https://chutes.ai/" target="_blank" rel="noopener">â†’</a> |
+| Glhf.chat | 2 | Registration | 131K | text | <a href="https://glhf.chat/" target="_blank" rel="noopener">â†’</a> |
+| Grok (xAI) | 2 | Registration | 131K | text | <a href="https://console.x.ai/" target="_blank" rel="noopener">â†’</a> |
+| AI21 Labs | 2 | Registration | 256K | text | <a href="https://studio.ai21.com/account/api-key" target="_blank" rel="noopener">â†’</a> |
+| DeepSeek | 2 | Registration | 128K | text | <a href="https://platform.deepseek.com/api_keys" target="_blank" rel="noopener">â†’</a> |
+| Nscale | 2 | Registration | 128K | text | <a href="https://console.nscale.com/" target="_blank" rel="noopener">â†’</a> |
+| Nebius | 1 | Registration | 128K | text | <a href="https://studio.nebius.com/settings/api-keys" target="_blank" rel="noopener">â†’</a> |
 <!-- END_PERMANENT_FREE -->
 
-### 💰 Renewable Credits
+### ðŸ’° Renewable Credits
 
 Providers that periodically renew free credits.
 
 <!-- BEGIN_RENEWABLE -->
 | Provider | Free Models | Credit Model | Max Context | Modalities | Get API Key |
 |---|---|---|---|---|---|
-| OpenRouter | 26 | Free tier + $10 topup → 1K RPD | 1M | audio, code, embeddings, image, reasoning, rerank, speech, text, video | <a href="https://openrouter.ai/workspaces/default/keys" target="_blank" rel="noopener">→</a> |
+| OpenRouter | 26 | Free tier + $10 topup â†’ 1K RPD | 1M | audio, code, embeddings, image, reasoning, rerank, speech, text, video | <a href="https://openrouter.ai/workspaces/default/keys" target="_blank" rel="noopener">â†’</a> |
 <!-- END_RENEWABLE -->
 
-## Quick Reference — Base URLs & API Keys
+## Quick Reference â€” Base URLs & API Keys
 
 <!-- BEGIN_QUICK_REF -->
 | Provider | Base URL | Get API Key | Credit Card? |
 |---|---|---|---|
-| NVIDIA NIM | `https://integrate.api.nvidia.com/v1` | <a href="https://build.nvidia.com/settings/api-keys" target="_blank" rel="noopener">Get Key →</a> | Phone verification |
-| ModelScope | `https://api-inference.modelscope.cn/v1` | <a href="https://modelscope.cn/my/myaccesstoken" target="_blank" rel="noopener">Get Key →</a> | Registration |
-| Cloudflare Workers AI | `https://api.cloudflare.com/client/v4/accounts/{account_id}/ai/run` | <a href="https://dash.cloudflare.com/profile/api-tokens" target="_blank" rel="noopener">Get Key →</a> | No |
-| OpenRouter | `https://openrouter.ai/api/v1` | <a href="https://openrouter.ai/workspaces/default/keys" target="_blank" rel="noopener">Get Key →</a> | Registration |
-| Google Gemini | `https://generativelanguage.googleapis.com/v1beta` | <a href="https://aistudio.google.com/app/apikey" target="_blank" rel="noopener">Get Key →</a> | No |
-| GitHub Models | `https://models.github.ai/inference` | <a href="https://github.com/marketplace/models" target="_blank" rel="noopener">Get Key →</a> | No |
-| LLM7.io | `https://api.llm7.io/v1` | <a href="https://token.llm7.io" target="_blank" rel="noopener">Get Key →</a> | No |
-| OVHcloud AI Endpoints | `https://oai.endpoints.kepler.ai.cloud.ovh.net/v1` | <a href="https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/" target="_blank" rel="noopener">Get Key →</a> | Registration |
-| Ollama Cloud | `https://api.ollama.com` | <a href="https://ollama.com/settings/keys" target="_blank" rel="noopener">Get Key →</a> | Registration |
-| Groq | `https://api.groq.com/openai/v1` | <a href="https://console.groq.com/keys" target="_blank" rel="noopener">Get Key →</a> | No |
-| Mistral AI | `https://api.mistral.ai/v1` | <a href="https://console.mistral.ai/api-keys" target="_blank" rel="noopener">Get Key →</a> | No |
-| Cohere | `https://api.cohere.com/v2` | <a href="https://dashboard.cohere.com/api-keys" target="_blank" rel="noopener">Get Key →</a> | No |
-| Kilo Code | `https://api.kilo.ai/api/gateway` | <a href="https://kilo.ai" target="_blank" rel="noopener">Get Key →</a> | No |
-| OpenCode Zen | `https://opencode.ai/zen/v1` | <a href="https://opencode.ai/auth" target="_blank" rel="noopener">Get Key →</a> | Registration |
-| Cerebras | `https://api.cerebras.ai/v1` | <a href="https://cloud.cerebras.ai/" target="_blank" rel="noopener">Get Key →</a> | No |
-| Aion Labs | `https://api.aionlabs.ai/v1` | <a href="https://www.aionlabs.ai" target="_blank" rel="noopener">Get Key →</a> | Registration |
-| Hugging Face | `https://router.huggingface.co/v1` | <a href="https://huggingface.co/settings/tokens" target="_blank" rel="noopener">Get Key →</a> | No |
-| Agnes AI | `https://apihub.agnes-ai.com/v1` | <a href="https://platform.agnes-ai.com/settings/apiKeys" target="_blank" rel="noopener">Get Key →</a> | Registration |
-| Alibaba Cloud Model Studio | `https://dashscope-intl.aliyuncs.com/compatible-mode/v1` | <a href="https://bailian.console.alibabacloud.com/?apiKey=1" target="_blank" rel="noopener">Get Key →</a> | Registration |
-| Z AI (Zhipu AI) | `https://open.bigmodel.cn/api/paas/v4` | <a href="https://open.bigmodel.cn/usercenter/apikeys" target="_blank" rel="noopener">Get Key →</a> | No |
-| SambaNova | `https://api.sambanova.ai/v1` | <a href="https://cloud.sambanova.ai/apis" target="_blank" rel="noopener">Get Key →</a> | Registration |
-| SiliconFlow | `https://api.siliconflow.cn/v1` | <a href="https://cloud.siliconflow.cn/account/ak" target="_blank" rel="noopener">Get Key →</a> | Registration |
-| xAI | `https://api.x.ai/v1` | <a href="https://console.x.ai" target="_blank" rel="noopener">Get Key →</a> | Registration |
-| Cline | `` | <a href="" target="_blank" rel="noopener">Get Key →</a> | Registration |
-| Chutes.ai | `https://api.chutes.ai/v1` | <a href="https://chutes.ai/" target="_blank" rel="noopener">Get Key →</a> | Registration |
-| Glhf.chat | `https://glhf.chat/api/openai/v1` | <a href="https://glhf.chat/" target="_blank" rel="noopener">Get Key →</a> | Registration |
-| Grok (xAI) | `https://api.x.ai/v1` | <a href="https://console.x.ai/" target="_blank" rel="noopener">Get Key →</a> | Registration |
-| AI21 Labs | `https://api.ai21.com/studio/v1` | <a href="https://studio.ai21.com/account/api-key" target="_blank" rel="noopener">Get Key →</a> | Registration |
-| DeepSeek | `https://api.deepseek.com/v1` | <a href="https://platform.deepseek.com/api_keys" target="_blank" rel="noopener">Get Key →</a> | Registration |
-| Nscale | `https://inference.api.nscale.com/v1` | <a href="https://console.nscale.com/" target="_blank" rel="noopener">Get Key →</a> | Registration |
-| Nebius | `https://api.studio.nebius.com/v1` | <a href="https://studio.nebius.com/settings/api-keys" target="_blank" rel="noopener">Get Key →</a> | Registration |
+| NVIDIA NIM | `https://integrate.api.nvidia.com/v1` | <a href="https://build.nvidia.com/settings/api-keys" target="_blank" rel="noopener">Get Key â†’</a> | Phone verification |
+| ModelScope | `https://api-inference.modelscope.cn/v1` | <a href="https://modelscope.cn/my/myaccesstoken" target="_blank" rel="noopener">Get Key â†’</a> | Registration |
+| Cloudflare Workers AI | `https://api.cloudflare.com/client/v4/accounts/{account_id}/ai/run` | <a href="https://dash.cloudflare.com/profile/api-tokens" target="_blank" rel="noopener">Get Key â†’</a> | No |
+| OpenRouter | `https://openrouter.ai/api/v1` | <a href="https://openrouter.ai/workspaces/default/keys" target="_blank" rel="noopener">Get Key â†’</a> | Registration |
+| Google Gemini | `https://generativelanguage.googleapis.com/v1beta` | <a href="https://aistudio.google.com/app/apikey" target="_blank" rel="noopener">Get Key â†’</a> | No |
+| GitHub Models | `https://models.github.ai/inference` | <a href="https://github.com/marketplace/models" target="_blank" rel="noopener">Get Key â†’</a> | No |
+| LLM7.io | `https://api.llm7.io/v1` | <a href="https://token.llm7.io" target="_blank" rel="noopener">Get Key â†’</a> | No |
+| OVHcloud AI Endpoints | `https://oai.endpoints.kepler.ai.cloud.ovh.net/v1` | <a href="https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/" target="_blank" rel="noopener">Get Key â†’</a> | Registration |
+| Ollama Cloud | `https://api.ollama.com` | <a href="https://ollama.com/settings/keys" target="_blank" rel="noopener">Get Key â†’</a> | Registration |
+| Groq | `https://api.groq.com/openai/v1` | <a href="https://console.groq.com/keys" target="_blank" rel="noopener">Get Key â†’</a> | No |
+| Mistral AI | `https://api.mistral.ai/v1` | <a href="https://console.mistral.ai/api-keys" target="_blank" rel="noopener">Get Key â†’</a> | No |
+| Cohere | `https://api.cohere.com/v2` | <a href="https://dashboard.cohere.com/api-keys" target="_blank" rel="noopener">Get Key â†’</a> | No |
+| Kilo Code | `https://api.kilo.ai/api/gateway` | <a href="https://kilo.ai" target="_blank" rel="noopener">Get Key â†’</a> | No |
+| OpenCode Zen | `https://opencode.ai/zen/v1` | <a href="https://opencode.ai/auth" target="_blank" rel="noopener">Get Key â†’</a> | Registration |
+| Cerebras | `https://api.cerebras.ai/v1` | <a href="https://cloud.cerebras.ai/" target="_blank" rel="noopener">Get Key â†’</a> | No |
+| Aion Labs | `https://api.aionlabs.ai/v1` | <a href="https://www.aionlabs.ai" target="_blank" rel="noopener">Get Key â†’</a> | Registration |
+| Hugging Face | `https://router.huggingface.co/v1` | <a href="https://huggingface.co/settings/tokens" target="_blank" rel="noopener">Get Key â†’</a> | No |
+| Agnes AI | `https://apihub.agnes-ai.com/v1` | <a href="https://platform.agnes-ai.com/settings/apiKeys" target="_blank" rel="noopener">Get Key â†’</a> | Registration |
+| Alibaba Cloud Model Studio | `https://dashscope-intl.aliyuncs.com/compatible-mode/v1` | <a href="https://bailian.console.alibabacloud.com/?apiKey=1" target="_blank" rel="noopener">Get Key â†’</a> | Registration |
+| Z AI (Zhipu AI) | `https://open.bigmodel.cn/api/paas/v4` | <a href="https://open.bigmodel.cn/usercenter/apikeys" target="_blank" rel="noopener">Get Key â†’</a> | No |
+| SambaNova | `https://api.sambanova.ai/v1` | <a href="https://cloud.sambanova.ai/apis" target="_blank" rel="noopener">Get Key â†’</a> | Registration |
+| SiliconFlow | `https://api.siliconflow.cn/v1` | <a href="https://cloud.siliconflow.cn/account/ak" target="_blank" rel="noopener">Get Key â†’</a> | Registration |
+| xAI | `https://api.x.ai/v1` | <a href="https://console.x.ai" target="_blank" rel="noopener">Get Key â†’</a> | Registration |
+| Cline | `` | <a href="" target="_blank" rel="noopener">Get Key â†’</a> | Registration |
+| Chutes.ai | `https://api.chutes.ai/v1` | <a href="https://chutes.ai/" target="_blank" rel="noopener">Get Key â†’</a> | Registration |
+| Glhf.chat | `https://glhf.chat/api/openai/v1` | <a href="https://glhf.chat/" target="_blank" rel="noopener">Get Key â†’</a> | Registration |
+| Grok (xAI) | `https://api.x.ai/v1` | <a href="https://console.x.ai/" target="_blank" rel="noopener">Get Key â†’</a> | Registration |
+| AI21 Labs | `https://api.ai21.com/studio/v1` | <a href="https://studio.ai21.com/account/api-key" target="_blank" rel="noopener">Get Key â†’</a> | Registration |
+| DeepSeek | `https://api.deepseek.com/v1` | <a href="https://platform.deepseek.com/api_keys" target="_blank" rel="noopener">Get Key â†’</a> | Registration |
+| Nscale | `https://inference.api.nscale.com/v1` | <a href="https://console.nscale.com/" target="_blank" rel="noopener">Get Key â†’</a> | Registration |
+| Nebius | `https://api.studio.nebius.com/v1` | <a href="https://studio.nebius.com/settings/api-keys" target="_blank" rel="noopener">Get Key â†’</a> | Registration |
 <!-- END_QUICK_REF -->
 
 ## Best Free Models by Provider
@@ -305,7 +312,7 @@ Providers that periodically renew free credits.
 
 
 
-### 🖥️ Local / Self-Hosted (Unlimited, Private, Free Forever)
+### ðŸ–¥ï¸ Local / Self-Hosted (Unlimited, Private, Free Forever)
 
 | Tool | Type | Highlights |
 |---|---|---|
@@ -343,12 +350,12 @@ Data from freellm.net, updated daily via API monitoring.
 
 ```
 awesome-free-llm-apis/
-├── README.md              ← Complete provider directory & code examples
-├── code-examples/          ← Ready-to-use config snippets
-│   ├── claude-code.md
-│   ├── cursor.md
-│   └── codex.md
-└── LICENSE                 ← MIT
+â”œâ”€â”€ README.md              â† Complete provider directory & code examples
+â”œâ”€â”€ code-examples/          â† Ready-to-use config snippets
+â”‚   â”œâ”€â”€ claude-code.md
+â”‚   â”œâ”€â”€ cursor.md
+â”‚   â””â”€â”€ codex.md
+â””â”€â”€ LICENSE                 â† MIT
 ```
 
 > For the full structured dataset with 453 models and daily updates, visit **<a href="https://freellm.net" target="_blank" rel="noopener">freellm.net</a>**.
@@ -359,9 +366,9 @@ awesome-free-llm-apis/
 
 We welcome contributions!
 
-- **Add a missing free model** — Open an <a href="https://github.com/open-free-llm-api/awesome-free-llm-apis/issues" target="_blank" rel="noopener">issue</a> or submit a PR
-- **Fix inaccurate data** — Rate limits change, providers graduate. PRs welcome
-- **Add a config snippet** — Have a working config for a tool we don't cover? Add it to `code-examples/`
+- **Add a missing free model** â€” Open an <a href="https://github.com/open-free-llm-api/awesome-free-llm-apis/issues" target="_blank" rel="noopener">issue</a> or submit a PR
+- **Fix inaccurate data** â€” Rate limits change, providers graduate. PRs welcome
+- **Add a config snippet** â€” Have a working config for a tool we don't cover? Add it to `code-examples/`
 
 ### Criteria for inclusion
 
@@ -374,15 +381,15 @@ A model belongs in this list if:
 
 ## Links
 
-- 🌐 **Live site**: <a href="https://freellm.net" target="_blank" rel="noopener">freellm.net</a> — search, compare, playground, config generator
-- 🔑 **API key directory**: <a href="https://freellm.net/free-llm-api-keys/" target="_blank" rel="noopener">freellm.net/free-llm-api-keys/</a>
-- ⚙️ **Config generator**: <a href="https://freellm.net/config/" target="_blank" rel="noopener">freellm.net/config/</a>
-- 🎮 **Playground**: <a href="https://freellm.net/playground/" target="_blank" rel="noopener">freellm.net/playground/</a>
-- 📊 **Compare models**: <a href="https://freellm.net/compare/" target="_blank" rel="noopener">freellm.net/compare/</a>
+- ðŸŒ **Live site**: <a href="https://freellm.net" target="_blank" rel="noopener">freellm.net</a> â€” search, compare, playground, config generator
+- ðŸ”‘ **API key directory**: <a href="https://freellm.net/free-llm-api-keys/" target="_blank" rel="noopener">freellm.net/free-llm-api-keys/</a>
+- âš™ï¸ **Config generator**: <a href="https://freellm.net/config/" target="_blank" rel="noopener">freellm.net/config/</a>
+- ðŸŽ® **Playground**: <a href="https://freellm.net/playground/" target="_blank" rel="noopener">freellm.net/playground/</a>
+- ðŸ“Š **Compare models**: <a href="https://freellm.net/compare/" target="_blank" rel="noopener">freellm.net/compare/</a>
 
 ## License
 
-MIT © <a href="https://github.com/open-free-llm-api" target="_blank" rel="noopener">open-free-llm-api</a>
+MIT Â© <a href="https://github.com/open-free-llm-api" target="_blank" rel="noopener">open-free-llm-api</a>
 
 ---
 
